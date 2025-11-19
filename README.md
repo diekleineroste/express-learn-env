@@ -8,11 +8,11 @@ Inside the `public` directory, you **must create a folder** that contains all th
 
 Your structure should look like this:
 
-public/
-└── data/
-├── file1.json
-├── file2.json
-└── ...
+public/  
+└── data/  
+&nbsp;&nbsp;&nbsp;&nbsp;├── file1.json  
+&nbsp;&nbsp;&nbsp;&nbsp;├── file2.json  
+&nbsp;&nbsp;&nbsp;&nbsp;└── ...
 
 ## ⚠️ Important
 

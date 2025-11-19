@@ -22,7 +22,8 @@ public/
 
 ## ✅ Steps
 
-1. Create a folder inside `public` (e.g., `public/data`).
-2. Place all your `.json` files inside that folder.
-3. Run the project.
-4. Test the api call to `/api/folders/:name` (e.g., `/api/folders/data`).
+1. Create the `public` folder in the root directory.
+2. Create a folder inside `public` (e.g., `public/data`).
+3. Place all your `.json` files inside that folder.
+4. Run the project.
+5. Test the api call to `/api/folders/:name` (e.g., `/api/folders/data`).
